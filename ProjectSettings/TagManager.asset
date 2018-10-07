@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Light-Radius
+  - SideLines
+  - Prize
+  - HealthBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockingLayer
+  - HealthLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 4119046289
+    locked: 0
+  - name: Walls
+    uniqueID: 2957780713
+    locked: 0
+  - name: Items
+    uniqueID: 1324229607
+    locked: 0
+  - name: Units
+    uniqueID: 3320571455
+    locked: 0
+  - name: Health
+    uniqueID: 3103137623
+    locked: 0
