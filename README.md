@@ -11,7 +11,7 @@ Main Menu                  |  Level-1
 
 ### Made with :heart: in [Unity](https://unity3d.com/) by:
 * [Aditya Verma](https://github.com/vermaditya1999)
-* [Amogh Gulati](https://google.com/)
+* [Amogh Gulati](https://github.com/amogh7777)
 * [Divyam Bhagchandani](https://github.com/divyambhagchandani)
 * [Rishi Sharma](https://github.com/RishiSharma99)
 * [Shubham Thakral](https://github.com/shubham2398)
